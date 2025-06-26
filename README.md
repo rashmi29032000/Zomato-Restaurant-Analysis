@@ -3,6 +3,7 @@
 📌 Project Objective
 To analyze Zomato restaurant data using Power BI and derive useful insights on restaurant distribution, ratings, cuisines, and services like online delivery and table booking.
 
+
 📊 Tools Used
 Power BI for data visualization
 
@@ -46,6 +47,7 @@ Zomato restaurant dataset (xlsx format)
 9) Cuisine-Wise Restaurant Count
 
 10) Highlights the most popular cuisines (e.g., North Indian, Chinese, Fast Food).
+
 
 
 🧩 Features
