@@ -1,10 +1,12 @@
 🍽️**Zomato Restaurants Analysis**
 
 📌 Project Objective
+
 To analyze Zomato restaurant data using Power BI and derive useful insights on restaurant distribution, ratings, cuisines, and services like online delivery and table booking.
 
 
 📊 Tools Used
+
 Power BI for data visualization
 
 Zomato restaurant dataset (xlsx format)
