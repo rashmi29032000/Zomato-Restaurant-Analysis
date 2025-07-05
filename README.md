@@ -12,7 +12,9 @@ Power BI for data visualization
 Zomato restaurant dataset (xlsx format)
 
 📁 Dashboard Highlights
+
 ✅ Key Metrics (Top KPIs)
+
 -->Total Restaurants: 9551
 
 -->Total Cities: 141
@@ -24,6 +26,7 @@ Zomato restaurant dataset (xlsx format)
 -->Total Votes: 1 Million
 
 📌 Filters
+
 -->Country Selector
 
 -->Year Selector
@@ -53,6 +56,7 @@ Zomato restaurant dataset (xlsx format)
 
 
 🧩 Features
+
 -->Dynamic filtering by country and year
 
 -->Interactive visuals and charts
